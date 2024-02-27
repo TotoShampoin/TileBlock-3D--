@@ -1,0 +1,2 @@
+Map = "Map.PTB"
+Tileset and cursor = "TileBlock3D.png"
